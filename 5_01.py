@@ -5,4 +5,4 @@ a = len(str)
 b = str[0]
 c = str[a-1]
 d = str[a//2]
-print(b, c, d)
+print(b + c + d)
