@@ -5,4 +5,3 @@ for i in range(6):
         j+=1
         print(j,end=" ")
     print(" ")
-    i+=1
